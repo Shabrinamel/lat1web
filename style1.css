@@ -1,0 +1,19 @@
+/* style.css */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    background-color: blue;
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    color: black;
+}
